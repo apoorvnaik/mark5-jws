@@ -300,7 +300,7 @@ public class JWebScraperView extends FrameView {
         browserPanel.setMinimumSize(new java.awt.Dimension(100, 100));
         browserPanel.setName("browserPanel"); // NOI18N
         browserPanel.setLayout(new java.awt.BorderLayout());
-        BrowserFactory.setLicenseData( "shock2k7" , "0000EOLVVUB6UTIL2LE6A9M5" );
+	// REMOVED LICENSING DATA 
         //browser = BrowserFactory.spawnMozilla();
         //browser.setProxyProtocol(new ProxySetting(ProxySetting.PROTOCOL_ALL, "172.16.1.100", 8080));
         //browser.enableProxy();
